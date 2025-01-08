@@ -149,7 +149,6 @@ public class Qes1_13 {
           ただしif文は使わないでください
          */
         
-        
         System.out.println(tosi==25 || senobi >= 160);
    
 	    
